@@ -1,9 +1,9 @@
 ## Hi, I'm Yalda!
-🔭 I'm a third-year computer science student at York University.
-🌱 I’m currently learning about logic programming in artificial intelligence, and computer vision.
-😄 I’m eager to hear about the areas of tech that spark your passion.
-📫 How to reach me: radanyalda@gmail.com.
-⚡ Fun fact: I'm an avid reader - conect with me on [Goodreads](https://www.goodreads.com/user/show/104585183-yalda-radan). my hobbies invclude martial arts and video games.  
+🔭 I'm a third-year computer science student at York University.</br>
+🌱 I’m currently learning about logic programming in artificial intelligence, and computer vision.</br>
+😄 I’m eager to hear about the areas of tech that spark your passion.</br>
+📫 How to reach me: radanyalda@gmail.com.</br>
+⚡ Fun fact: I'm an avid reader - conect with me on [Goodreads](https://www.goodreads.com/user/show/104585183-yalda-radan). my hobbies invclude martial arts and video games.</br>
 
 
 
