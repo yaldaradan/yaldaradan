@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Yalda!
+🔭 I'm a third-year computer science student at York University.
+🌱 I’m currently learning about logic programming in artificial intelligence, and computer vision.
+😄 I’m eager to hear about the areas of tech that spark your passion.
+📫 How to reach me: radanyalda@gmail.com.
+⚡ Fun fact: I'm an avid reader - conect with me on [Goodreads](https://www.goodreads.com/user/show/104585183-yalda-radan). my hobbies invclude martial arts and video games.  
+
+
+
 
 <!--
 **yaldaradan/yaldaradan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
